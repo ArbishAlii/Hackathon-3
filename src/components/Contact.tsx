@@ -31,7 +31,7 @@ const page = () => {
                     <ul className="list-disc pl-5 mb-6 space-y-2">
                         <li>Visa, Mastercard, Diners Club, Discover, American Express, Visa Electron, Maestro</li>
                         <li>
-                            If you enter your PAN information at checkout, you'll be able to pay for your order with PayTM or a local credit or debit card.
+                            If you enter your PAN information at checkout, you&apos;ll be able to pay for your order with PayTM or a local credit or debit card.
                         </li>
                         <li>Apple Pay</li>
                     </ul>
@@ -121,7 +121,7 @@ const page = () => {
                     <div className="flex flex-col items-center space-y-2 text-center">
                         {/* <Image src="/frame.png"  alt='Phone' width={40} /> */}
                         <Image src="/frame.png" alt="Thumbs Down" className="w-6 h-6 cursor-pointer" width={24} height={24} />
-                        <p>We’ll reply within</p>
+                        <p>We&apos;ll reply within</p>
                         <p>five business days</p>
                     </div>
 
